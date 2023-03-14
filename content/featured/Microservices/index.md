@@ -3,6 +3,7 @@ date: '1'
 title: 'Kapok Microservices'
 cover: './microservices.png'
 github: 'https://github.com/kapokcode/microservices'
+cta: 'https://github.com/kapokcode/microservices'
 tech:
   - IntelliJ IDEA
   - Docker
