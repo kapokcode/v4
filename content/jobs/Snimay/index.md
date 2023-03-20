@@ -2,7 +2,7 @@
 date: '2017-12-21'
 title: 'Java Software Engineer'
 company: 'Snimay'
-location: 'Panyu, Guangzhou
+location: 'Panyu, Guangzhou'
 range: 'Feb 2021 - Feb 2022'
 url: 'https://www.snimay.com/'
 ---
