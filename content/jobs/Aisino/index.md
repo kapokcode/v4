@@ -3,7 +3,7 @@ date: '2018-05-14'
 title: 'Java Software Engineer'
 company: 'aisino'
 location: 'HuangPu, Guangzhou'
-range: 'Mar 2022 - Sep 2022'
+range: 'Mar 2021 - Sep 2022'
 url: 'http://www.aisino.com/'
 ---
 
